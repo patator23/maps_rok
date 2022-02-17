@@ -6,7 +6,7 @@ author: Marcel Newman
 categories:
 - project
 img_mini: 1008_mini.png
-img: 1008.jpg
+img: 1008.png
 thumb: thumb02.jpg
 carousel:
 - single01.jpg
