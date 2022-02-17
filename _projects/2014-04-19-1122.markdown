@@ -1,11 +1,12 @@
 ---
 layout: project
-title:  "YOUR PROJECT NAME"
-date:   2014-04-25 16:54:46
+title:  "1122"
+date:   2014-04-25
 author: Marcel Newman
 categories:
 - project
-img: portfolio_04.jpg
+img_mini: 1122_mini.png
+img: 1122.png
 thumb: thumb02.jpg
 carousel:
 - single01.jpg
