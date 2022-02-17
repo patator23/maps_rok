@@ -5,7 +5,8 @@ date:   2022-02-03
 author: Marcel Newman
 categories:
 - project
-img: 1164_mini.png
+img_mini: 1164_mini.png
+img: 1164.png
 thumb: thumb02.jpg
 carousel:
 - single01.jpg
