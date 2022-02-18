@@ -1,0 +1,13 @@
+---
+layout: project
+title:  "1401"
+date:   2014-04-25
+categories:
+- project
+img_mini: 1401_mini.png
+img: 1401.png
+thumb: thumb02.jpg
+carousel:
+- 1401.png
+tagged: Flat, UI, Development
+---
