@@ -1,0 +1,14 @@
+---
+layout: project
+title:  "1365"
+date:   2014-04-25
+categories:
+- project
+img: 1365.png
+img_mini: 1365_mini.png
+thumb: thumb02.jpg
+seed: A
+carousel:
+- 1365.png
+tagged: Flat, UI, Development
+---
