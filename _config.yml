@@ -65,7 +65,7 @@ members:
       - title: envelope #use for email address
         url: mailto:name@domain.com
   - name: KvK1&2
-    img: kingdom.jpg
+    img: kvk1.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
