@@ -5,11 +5,11 @@ date:   2014-04-25
 author: Marcel Newman
 categories:
 - project
-img_mini: 1356_mini.jpg
-img: 1356.jpg
+img_mini: 1356_mini.png
+img: 1356.png
 thumb: thumb02.jpg
 carousel:
-- single01.jpg
+- 1356.png
 - single02.jpg
 - single03.jpg
 tagged: Flat, UI, Development
