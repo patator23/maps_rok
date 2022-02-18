@@ -2,7 +2,6 @@
 layout: project
 title:  "1356"
 date:   2014-04-25
-author: Marcel Newman
 categories:
 - project
 img_mini: 1356_mini.png
