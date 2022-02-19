@@ -70,12 +70,12 @@ members:
       - title: envelope #use for email address
         url: mailto:name@domain.com
   - name: Light&Darkness
-    img: KvKLD.jpg
+    img: KvKLD.png
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
   - name: SoC HA
-    img: KvKHA.jpg
+    img: KvKHA.png
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
