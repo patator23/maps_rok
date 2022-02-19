@@ -1,0 +1,15 @@
+---
+layout: project
+title:  "C11282"
+date:   2022-02-10
+map_type: HA
+seed: NA
+categories:
+- project
+img_mini: C11282_10_02_2022-17_47_mini.png
+img: C11282_10_02_2022-17_47.png
+thumb: thumb02.jpg
+carousel:
+- C11282_10_02_2022-17_47.png
+tagged: Flat, UI, Development
+---
