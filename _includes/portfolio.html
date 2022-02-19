@@ -9,7 +9,7 @@
                         <div class="he-view">
                             <div class="bg a0" data-animate="fadeIn">
                                 <a href="{{  project.url | prepend: site.baseurl }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
-                                <p>{{project.date}}</p>
+                                <p>{{project.date | date: "%b %-d, %Y" }}</p>
                             </div><!-- he bg -->
                         
                         </div><!-- he view -->
