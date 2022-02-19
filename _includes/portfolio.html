@@ -3,23 +3,25 @@
         {% if include.title %}<h3>{{ include.title }}</h3>{% endif %}
         <div class="recentitems portfolio">
             {% for project in site.projects limit:include.limit %}
-                <div class="portfolio-item graphic-design">
-                    <div class="he-wrap tpl6">
-                    <img src="{{ "/assets/img/project/" | prepend: site.baseurl }}{{ project.img_mini }}" alt="">
-                        <div class="he-view">
-                            <div class="bg a0" data-animate="fadeIn">
-                                <a href="{{  project.url | prepend: site.baseurl }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
-                                <p>{{project.date | date: "%b %-d, %Y" }}</p>
-                            </div><!-- he bg -->
-                        
-                        </div><!-- he view -->
+                {% if project.map_type == "kingdoms" %}
+                    <div class="portfolio-item graphic-design">
+                        <div class="he-wrap tpl6">
+                        <img src="{{ "/assets/img/project/" | prepend: site.baseurl }}{{ project.img_mini }}" alt="">
+                            <div class="he-view">
+                                <div class="bg a0" data-animate="fadeIn">
+                                    <a href="{{  project.url | prepend: site.baseurl }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
+                                    <p>{{project.date | date: "%b %-d, %Y" }}</p>
+                                </div><!-- he bg -->
 
-                    </div><!-- he wrap -->
-                    <div style="background-color:black" class="bg a0">
-                      <center><p>{{project.title}}</p></center>
-                    </div> 
-                </div><!-- end col-12 -->
-            </br>
+                            </div><!-- he view -->
+
+                        </div><!-- he wrap -->
+                        <div style="background-color:black" class="bg a0">
+                          <center><p>{{project.title}}</p></center>
+                        </div> 
+                    </div><!-- end col-12 -->
+                </br>
+                {% endif %}
             {% endfor %}
         </div><!-- portfolio -->
     </div><!-- portfolio container -->
