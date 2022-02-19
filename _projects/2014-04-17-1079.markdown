@@ -1,7 +1,9 @@
 ---
 layout: project
 title:  "1079"
-date:   2014-04-25
+date:   2022-02-03
+map_type: kingdom
+seed: A
 categories:
 - project
 img_mini: 1079_mini.png
