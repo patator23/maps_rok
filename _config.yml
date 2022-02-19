@@ -80,7 +80,7 @@ members:
       - title: envelope #use for email address
         url: mailto:name@domain.com
   - name: SoC So8
-    img: kingdom.jpg
+    img: KvKSo8.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
