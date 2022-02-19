@@ -2,11 +2,12 @@
 layout: project
 title:  "1164"
 date:   2022-02-03
+map_type: kingdom
+seed: A
 categories:
 - project
 img_mini: 1164_mini.png
 img: 1164.png
-seed: A
 thumb: thumb02.jpg
 carousel:
 - 1164.png
