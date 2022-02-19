@@ -85,7 +85,7 @@ members:
       - title: envelope #use for email address
         url: mailto:name@domain.com
   - name: SoC MoA
-    img: kingdom.jpg
+    img: KvKMoA.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
