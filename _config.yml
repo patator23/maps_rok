@@ -70,7 +70,7 @@ members:
       - title: envelope #use for email address
         url: mailto:name@domain.com
   - name: Light&Darkness
-    img: kingdom.jpg
+    img: KvKLD.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
