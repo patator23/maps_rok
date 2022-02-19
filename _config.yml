@@ -61,6 +61,7 @@ tel:
 members:
   - name: Kingdoms
     img: kingdom.jpg
+    url: /kingdoms
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
