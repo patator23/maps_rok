@@ -85,6 +85,12 @@ members:
       - title: envelope #use for email address
         url: mailto:name@domain.com
 
+  - name: SoC Desert of conquest
+    img: desert.jpg
+    url: /DoC
+    social:
+      - title: envelope #use for email address
+        url: mailto:name@domain.com
 
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
