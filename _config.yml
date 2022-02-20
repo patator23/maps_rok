@@ -86,7 +86,7 @@ members:
         url: mailto:name@domain.com
 
   - name: SoC Desert of conquest
-    img: desert.jpg
+    img: desert.png
     url: /DoC
     social:
       - title: envelope #use for email address
