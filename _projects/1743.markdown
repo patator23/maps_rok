@@ -1,0 +1,15 @@
+---
+layout: project
+title:  "1743"
+date:   2022-02-03
+map_type: kingdoms
+seed: A
+categories:
+- project
+img_mini: 1743_mini.png
+img: 1743.png
+thumb: thumb02.jpg
+carousel:
+- 1743.png
+tagged: Flat, UI, Development
+---
