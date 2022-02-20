@@ -1,0 +1,15 @@
+---
+layout: project
+title:  "1960"
+date:   2022-02-03
+map_type: kingdoms
+seed: A
+categories:
+- project
+img_mini: 1960_mini.png
+img: 1960.png
+thumb: thumb02.jpg
+carousel:
+- 1960.png
+tagged: Flat, UI, Development
+---
