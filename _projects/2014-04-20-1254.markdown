@@ -2,7 +2,7 @@
 layout: project
 title:  "1254"
 date:   2022-02-03
-map_type: kingdom
+map_type: kingdoms
 seed: A
 categories:
 - project
