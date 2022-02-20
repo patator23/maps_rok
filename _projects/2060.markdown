@@ -1,0 +1,15 @@
+---
+layout: project
+title:  "2060"
+date:   2022-02-03
+map_type: kingdoms
+seed: A
+categories:
+- project
+img_mini: 2060_mini.png
+img: 2060.png
+thumb: thumb02.jpg
+carousel:
+- 2060.png
+tagged: Flat, UI, Development
+---
