@@ -1,0 +1,15 @@
+---
+layout: project
+title:  "1947"
+date:   2022-02-03
+map_type: kingdoms
+seed: A
+categories:
+- project
+img_mini: 1947_mini.png
+img: 1947.png
+thumb: thumb02.jpg
+carousel:
+- 1947.png
+tagged: Flat, UI, Development
+---
