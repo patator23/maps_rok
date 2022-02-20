@@ -1,0 +1,15 @@
+---
+layout: project
+title:  "1846"
+date:   2022-02-03
+map_type: kingdoms
+seed: A
+categories:
+- project
+img_mini: 1846_mini.png
+img: 1846.png
+thumb: thumb02.jpg
+carousel:
+- 1846.png
+tagged: Flat, UI, Development
+---
