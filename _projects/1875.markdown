@@ -1,0 +1,15 @@
+---
+layout: project
+title:  "1875"
+date:   2022-02-03
+map_type: kingdoms
+seed: A
+categories:
+- project
+img_mini: 1875_mini.png
+img: 1875.png
+thumb: thumb02.jpg
+carousel:
+- 1875.png
+tagged: Flat, UI, Development
+---
