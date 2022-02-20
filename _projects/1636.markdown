@@ -1,0 +1,15 @@
+---
+layout: project
+title:  "1636"
+date:   2022-02-03
+map_type: kingdoms
+seed: A
+categories:
+- project
+img_mini: 1636_mini.png
+img: 1636.png
+thumb: thumb02.jpg
+carousel:
+- 1636.png
+tagged: Flat, UI, Development
+---
