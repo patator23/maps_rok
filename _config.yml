@@ -3,7 +3,7 @@
 # Site settings
 title: Rise of Kingdom maps
 description: "Rise of Kingdom maps, from Imperium and A seed kingdoms, KvK, Heroic Anthem, March of Age "
-analytics: #Google analytics code in the format XX-nnnnnnnn-n
+analytics: G-JQR1YEY44M #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "/maps_rok" #important: start with /
 url: "http://yourdomain.com"
 
