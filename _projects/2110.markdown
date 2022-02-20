@@ -1,0 +1,15 @@
+---
+layout: project
+title:  "2110"
+date:   2022-02-03
+map_type: kingdoms
+seed: A
+categories:
+- project
+img_mini: 2110_mini.png
+img: 2110.png
+thumb: thumb02.jpg
+carousel:
+- 2110.png
+tagged: Flat, UI, Development
+---
