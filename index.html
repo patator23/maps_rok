@@ -5,31 +5,4 @@ permalink: /
 ---
 
 {% include members.html title="Seasons" %}
-{% include portfolio.html title="Kingdoms" limit=5 %}
 
-<div class="container mtb">
-    <div class="row">
-        <div class="col-lg-4 col-lg-offset-1">
-            <h4>More About us</h4>
-            <p>{{ site.about }}</p>
-            <p><br/><a href="{{ "/about/" | prepend: site.baseurl }}" class="btn btn-theme">More Info</a></p>
-        </div>
-
-        <div class="col-lg-3">
-            <h4>Frequently Asked</h4>
-            <div class="hline"></div>
-            {% for question in site.questions %}
-                <p><a href="{{ question.url | prepend: site.baseurl }}">{{ question.title }}</a></p>
-            {% endfor %}
-        </div>
-
-        <div class="col-lg-3">
-            <h4>Insert coins</h4>
-            <div class="hline"></div>
-     
-                <p>Help us to improve this project</p>
-            
-        </div>
-
-    </div><!--/row -->
-</div><!--/container -->
