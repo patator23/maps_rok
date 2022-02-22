@@ -60,11 +60,13 @@ members:
         url: mailto:name@domain.com
   - name: KvK1&2
     img: kvk1.jpg
+    url: /KvK1
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
   - name: Light&Darkness
     img: KvKLD.png
+    url: /lightdarkness
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
@@ -76,15 +78,16 @@ members:
         url: mailto:name@domain.com
   - name: SoC So8
     img: KvKSo8.jpg
+    url: /So8
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
-  - name: SoC MoA
+  - name: SoC MotA
     img: KvKMoA.jpg
+    url: /MotA
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
-
   - name: SoC Desert of conquest
     img: desert.png
     url: /DoC
@@ -94,7 +97,7 @@ members:
 
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Personal project, aims to gather full kingdom views of the best time in Rise of Kingdom."
+about: "Personal project, aims to build and gather full kingdom maps of rise ofKingdom. All maps are under copyright, do not use them for anything other than personnal purpose."
 
 # Testimonial content. Shown on Home and About page.
 testimonial:
